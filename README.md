@@ -1,6 +1,8 @@
 # Autonomous-Dependent-States
 An Autonomous Dependent States mod for Crusader Kings II
 
+[Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1665029657)
+
 **UPDATED TO V 2.0**
 
 **CHANGES**
