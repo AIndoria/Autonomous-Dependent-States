@@ -3,10 +3,12 @@ An Autonomous Dependent States mod for Crusader Kings II
 
 [Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1665029657)
 
-**UPDATED TO V 2.0**
+**UPDATED TO WORK WITH 3.3**
+
+Version 2.1
 
 **CHANGES**
-
+- Now works with 3.3.*
 -  NEW OPTIONS: "Ask to become an Autonomous State" and "Revassalize Autonomous State"
 - AI now uses both "Release as Autonomous State" as well as "Ask to become an Autonomous State" options.
 - AI will only use the first option if they have very minimal prestige or negative.
@@ -44,6 +46,8 @@ You can right click on someone's picture, click "Release as Dependent State."
 2. Generally, they're more than likely to accept (Hey, independence!).
 3.  However, if they're among the first two most powerful vassals and are likely to inherit/get the entire realm, they'll try to bribe you or outright refuse, in which case, they might choose to go to war.
 4.  If you win the war, you get to imprison them and then you can release them and they will accept.
+5. You can ask nearby rulers to become their autonomous state if you're independent as well.
+6. You can revassalize the autonomous states after two years if you have certain prestige. You'll take a prestige hit.
 
 
 --------
@@ -56,4 +60,10 @@ You can right click on someone's picture, click "Release as Dependent State."
 
 
 **Incompatibility**
+
 Does not work well with CK2+, as it already has those options integrated. It WILL work if you force it to, but weird things happen, like some options never showing up in character context menu.
+
+**Variant where Tributaries can be summoned to war**
+
+Some people wanted to have a version where you can call your tributaries to war. You can download that variant [HERE](https://www56.zippyshare.com/v/XP4P7Zgs/file.html). Note: This might make Tributaries OP.
+
