@@ -1,12 +1,13 @@
 
 # Autonomous-Dependent-States
 An Autonomous Dependent States mod for Crusader Kings II 
- [Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=1665029657)
+
+ [Steam Workshop Link.](https://steamcommunity.com/sharedfiles/filedetails/?id=1665029657)
 
 ![Steam workshop in-game screenshot](https://i.imgur.com/GNnWFsa.jpg)
 
 **CHANGES**
-- Now works with 3.3.*
+- Now works with CK3 3.3.*
 - New Options: "Ask to become an Autonomous State" and "Revassalize Autonomous State"
 - AI now uses both "Release as Autonomous State" as well as "Ask to become an Autonomous State" options.
 - AI will only use the first option if they have very minimal prestige or negative.
@@ -14,12 +15,9 @@ An Autonomous Dependent States mod for Crusader Kings II
 - You can Revassalize the autonomous states after 2 years(testing). They can also bribe you and rebel to keep their autonomy.
 - Autonomous Vassals can no longer be called to wars
 - Adjusted factors for AI to increase chances of rejecting becoming an Autonomous State if they have chance to gain the throne (Are among two most powerful vassals), or if their relative power to the ruler is more than 5.
-- Updated to support the latest CK2 version (3.2.1)
 
 
 ------------
-
-
 
 Release your vassals as autonomous dependencies which act as tributaries.
 
@@ -65,7 +63,5 @@ You can right click on someone's picture, click "Release as Dependent State."
    like some options never showing up in character context menu.
 -   Compatible with HIP
 
-**Variant where Tributaries can be summoned to war**
 
-Some people wanted to have a version where you can call your tributaries to war. You can download that variant [HERE](https://www56.zippyshare.com/v/XP4P7Zgs/file.html). Note: This might make Tributaries OP.
 
