@@ -27,7 +27,11 @@ Ever wished that your big empire would break into smaller "autonomous" states wh
 ------------
 
 
+**Installation Instructions** (If not using Steam Workshop):
 
+1. Download the Github archive as a zip. Extract in your `~User Home Directory~/Documents/Paradox Interactive/Crusader Kings II/mod`.
+2. Make sure the folder `tributary_vassals` is created inside the `mod` directory, and the `tributary_vassals.mod` file stays in the main `mod` directory, and not inside a subfolder.
+3. Select the mod from the launcher, and click Play.
 
 
 
@@ -63,5 +67,6 @@ You can right click on someone's picture, click "Release as Dependent State."
    like some options never showing up in character context menu.
 -   Compatible with HIP
 
+-----
 
 
